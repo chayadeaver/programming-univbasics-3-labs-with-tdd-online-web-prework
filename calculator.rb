@@ -1,5 +1,5 @@
-first_number = 10 
-second_number = 5
+first_number = 90
+second_number = 85
 sum = (first_number + second_number)
 difference = (first_number - second_number)
 product = (first_number * second_number)
